@@ -1,0 +1,9 @@
+[16-Nov-2024 10:42:36 UTC] PHP Warning:  Attempt to read property "title" on null in /home3/forworkf/visitka.forwork.fun/wp-includes/class-wp-customize-widgets.php on line 923
+[16-Nov-2024 21:38:01 UTC] PHP Warning:  Undefined array key "image" in /home3/forworkf/visitka.forwork.fun/wp-content/plugins/elementor/modules/ai/connect/ai.php on line 541
+[16-Nov-2024 21:38:01 UTC] PHP Warning:  Array to string conversion in /home3/forworkf/visitka.forwork.fun/wp-content/plugins/elementor/modules/ai/connect/ai.php on line 117
+[16-Nov-2024 21:38:15 UTC] PHP Warning:  Undefined array key "prompt" in /home3/forworkf/visitka.forwork.fun/wp-content/plugins/elementor/modules/ai/module.php on line 850
+[16-Nov-2024 21:38:15 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home3/forworkf/visitka.forwork.fun/wp-content/plugins/elementor/modules/ai/module.php on line 850
+[16-Nov-2024 21:38:32 UTC] PHP Warning:  Array to string conversion in /home3/forworkf/visitka.forwork.fun/wp-content/plugins/elementor/modules/ai/connect/ai.php on line 117
+[16-Nov-2024 21:38:47 UTC] PHP Warning:  Undefined array key "prompt" in /home3/forworkf/visitka.forwork.fun/wp-content/plugins/elementor/modules/ai/module.php on line 850
+[16-Nov-2024 21:38:47 UTC] PHP Warning:  Undefined array key "editor_post_id" in /home3/forworkf/visitka.forwork.fun/wp-content/plugins/elementor/modules/ai/module.php on line 850
+[16-Nov-2024 21:39:05 UTC] PHP Warning:  Array to string conversion in /home3/forworkf/visitka.forwork.fun/wp-content/plugins/elementor/modules/ai/connect/ai.php on line 117
